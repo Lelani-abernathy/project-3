@@ -1,0 +1,61 @@
+.top{
+text-align: center;
+height: 200px;
+font-size: 25px;
+height: 150px;
+width: 500px;
+border: solid black;
+padding-bottom: 25px;
+font-family: "raleway", sans-serif;
+background-color: #C52727;
+}
+body{
+background-image: url("https://media.thegospelcoalition.org/wp-content/uploads/2019/01/31155226/abortion-3rd-trimester-1920x820.jpg");
+}
+.grid{
+	grid-template-colums:50% 50%;
+	border: 2px black solid;
+	width: 900px;
+	height: 490px;
+	display: grid;
+}
+.box{
+	color:black;
+border-radius:5px;
+border:2px black soild;
+}
+.item1{
+	font-family:times;
+	border-bottom:dotted black;
+	margin-top:25px;
+	width:250px;
+}
+.item2{
+	margin-left:50px;
+	height:375px;
+}
+.item3{
+	border: soild white 7px;
+	font-size: 43px;
+	background: grey;
+}
+.item4{
+	height:600px;
+	width:700px;
+	border:solid white 7px;
+}
+.item5{
+	height:600px;
+	width:700px;
+	border:solid white 7px;
+}
+.item6{
+	height:600px;
+	width:700px;
+	border:solid white 7px;
+}
+.img{
+height:100%
+width: 100%
+}
+
